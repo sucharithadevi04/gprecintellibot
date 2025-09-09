@@ -1,0 +1,1762 @@
+[
+  {
+    "name": "Dr. N.Kasiviswanath",
+    "designation": "Professor & HoD",
+    "qualifications": "Ph.D",
+    "research_interest": "Wireless Networks",
+    "google_scholar": "https://scholar.google.com/citations?user=3rQBfPkAAAAJ&hl=en",
+    "apaar_id": "457265500689",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/587518",
+    "department": "CSE"
+  },
+  {
+    "name": "Dr. D.Kavitha",
+    "designation": "Professor",
+    "qualifications": "Ph.D",
+    "research_interest": "Computer Networks & Cloud Computing",
+    "google_scholar": "https://scholar.google.com/citations?user=xccwrsMAAAAJ&hl=en",
+    "apaar_id": "",
+    "vidwan_profile": "",
+    "department": "CSE"
+  },
+  {
+    "name": "Dr. S.Zahoor-ul-Huq",
+    "designation": "Professor",
+    "qualifications": "Ph.D",
+    "research_interest": "Networks, Cloud Computing, Big Data",
+    "google_scholar": "https://scholar.google.com/citations?user=FCLCKNkAAAAJ&hl=en",
+    "apaar_id": "379578745160",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/241674",
+    "department": "CSE"
+  },
+  {
+    "name": "Dr. C.Sreedhar",
+    "designation": "Professor & Associate HoD",
+    "qualifications": "Ph.D",
+    "research_interest": "Security in Wireless Networks",
+    "google_scholar": "https://scholar.google.com/citations?user=eSbQrxgAAAAJ&hl=en",
+    "apaar_id": "948718515341",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/587501",
+    "department": "CSE"
+  },
+  {
+    "name": "Dr. B. Geetha Vani",
+    "designation": "Professor",
+    "qualifications": "M.Tech.,PhD",
+    "research_interest": "Information Security, Artificial Neural Networks",
+    "google_scholar": "https://scholar.google.com/citations?user=MOW6ML8AAAAJ&hl=en",
+    "apaar_id": "595249199764",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/218489",
+    "department": "CSE"
+  },
+  {
+    "name": "Dr. K.Ishthaq Ahamed",
+    "designation": "Associate Professor",
+    "qualifications": "Ph.D",
+    "research_interest": "Artificial Intelligence, Soft Computing",
+    "google_scholar": "https://scholar.google.com/citations?user=K6Z9mY8AAAAJ&hl=en",
+    "apaar_id": "466749542230",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/241016",
+    "department": "CSE"
+  },
+  {
+    "name": "Sri. J.Swami Naik",
+    "designation": "Associate Professor",
+    "qualifications": "M.Tech., (Ph.D)",
+    "research_interest": "Cloud Computing",
+    "google_scholar": "https://scholar.google.com/citations?user=NOvCUEgAAAAJ&hl=en",
+    "apaar_id": "473726964162",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/241107",
+    "department": "CSE"
+  },
+  {
+    "name": "Dr. B.Santhosh Kumar",
+    "designation": "Associate Professor",
+    "qualifications": "Ph.D",
+    "research_interest": "Cloud Computing",
+    "google_scholar": "https://scholar.google.com/citations?user=zLqvlJEAAAAJ&hl=en",
+    "apaar_id": "669013179456",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/241050",
+    "department": "CSE"
+  },
+  {
+    "name": "Dr. B.Thimma Reddy",
+    "designation": "Associate Professor",
+    "qualifications": "M.Tech., Ph.D",
+    "research_interest": "Data Mining & Image Processing",
+    "google_scholar": "https://scholar.google.com/citations?user=lo0LiNkAAAAJ&hl=en",
+    "apaar_id": "431433240674",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/241063",
+    "department": "CSE"
+  },
+  {
+    "name": "Dr. K.V.Rameswara Reddy",
+    "designation": "Associate Professor",
+    "qualifications": "M.Tech.,Ph.D",
+    "research_interest": "Data Mining",
+    "google_scholar": "https://scholar.google.com/citations?user=_zSwuw8AAAAJ&hl=en",
+    "apaar_id": "793856705086",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/587662",
+    "department": "CSE"
+  },
+  {
+    "name": "Dr.G.Rajeswarappa",
+    "designation": "Associate Professor",
+    "qualifications": "Ph.D",
+    "research_interest": "Computer Networks",
+    "google_scholar": "https://scholar.google.co.in/citations?user=Uw_e4xQAAAAJ&hl=en",
+    "apaar_id": "329364310970",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/587531",
+    "department": "CSE"
+  },
+  {
+    "name": "Dr.T.Swathi",
+    "designation": "Associate Professor",
+    "qualifications": "M.Tech,Ph.D",
+    "research_interest": "Machine Learning",
+    "google_scholar": "https://scholar.google.com/citations?user=3sz2hAcAAAAJ&hl=en&authuser=2",
+    "apaar_id": "380566052736",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/241082",
+    "department": "CSE"
+  },
+  {
+    "name": "Dr.K.Kavitha",
+    "designation": "Associate Professor",
+    "qualifications": "M.C.A ,M.Tech,Ph.D",
+    "research_interest": "Deep Learning",
+    "google_scholar": "",
+    "apaar_id": "",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/587585",
+    "department": "CSE"
+  },
+  {
+    "name": "Dr.K.Sudhakar",
+    "designation": "Associate Professor",
+    "qualifications": "M.Tech,Ph.D",
+    "research_interest": "Machine Learning and Deep Learning",
+    "google_scholar": "https://scholar.google.com/citations?user=XK296JQAAAAJ&hl=en",
+    "apaar_id": "924303026923",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/587708",
+    "department": "CSE"
+  },
+  {
+    "name": "Smt.L.Sudha Rani",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech,(Ph.D)",
+    "research_interest": "Computer Networks",
+    "google_scholar": "https://scholar.google.com/citations?user=yW3Hxg4AAAAJ&hl=en",
+    "apaar_id": "921752124001",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/241302",
+    "department": "CSE"
+  },
+  {
+    "name": "Sri.K.Bala Chowdappa",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech,(Ph.D)",
+    "research_interest": "Data Mining",
+    "google_scholar": "https://scholar.google.com/citations?hl=en&authuser=1&user=ruUsh5oAAAAJ#d=gs_hdr_drw",
+    "apaar_id": "405648752445",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/241190",
+    "department": "CSE"
+  },
+  {
+    "name": "Sri.P.Praveen Yadav",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech,(Ph.D)",
+    "research_interest": "Cloud Computing",
+    "google_scholar": "https://scholar.google.com/citations?user=bsGITWsAAAAJ&hl=en",
+    "apaar_id": "424005048453",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/241026",
+    "department": "CSE"
+  },
+  {
+    "name": "Sri.Y.R.Janardhan Reddy",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech,(Ph.D)",
+    "research_interest": "Image processing",
+    "google_scholar": "https://scholar.google.com/citations?user=gM3ZKPwAAAAJ&hl=en",
+    "apaar_id": "501775454246",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/587541",
+    "department": "CSE"
+  },
+  {
+    "name": "Sri.M.Raghavendra Reddy",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech,(Ph.D)",
+    "research_interest": "Deep Learning",
+    "google_scholar": "https://scholar.google.com/citations?user=oYWu4WcAAAAJ&hl=en",
+    "apaar_id": "797406435037",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/587554",
+    "department": "CSE"
+  },
+  {
+    "name": "Sri.B.Dilip Kumar Reddy",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech,(Ph.D)",
+    "research_interest": "Computer Networks",
+    "google_scholar": "https://scholar.google.com/citations?user=JBdlnHsAAAAJ",
+    "apaar_id": "708454328467",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/241510",
+    "department": "CSE"
+  },
+  {
+    "name": "Smt.P.Srilakshmi",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech",
+    "research_interest": "Cloud Computing",
+    "google_scholar": "https://scholar.google.com/citations?user=fOW467kAAAAJ&hl=en",
+    "apaar_id": "200180076793",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/241025",
+    "department": "CSE"
+  },
+  {
+    "name": "Sri.P.Rama Rao",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech,(Ph.D)",
+    "research_interest": "Machine Learning",
+    "google_scholar": "https://scholar.google.com/citations?hl=en&authuser=1&user=oG-2pREAAAAJ",
+    "apaar_id": "803636035281",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/587573",
+    "department": "CSE"
+  },
+  {
+    "name": "Ms.P.Sunanda",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech,(Ph.D)",
+    "research_interest": "Cloud Computing",
+    "google_scholar": "https://scholar.google.com/citations?user=Ddc25rYAAAAJ&hl=en&authuser=1",
+    "apaar_id": "365704443671",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/241078",
+    "department": "CSE"
+  },
+  {
+    "name": "Sri.M.Shashidhar",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech,(Ph.D)",
+    "research_interest": "Wireless Networks and Image Processing",
+    "google_scholar": "https://scholar.google.com/citations?hl=en&user=fPuj5z0AAAAJ",
+    "apaar_id": "308074924837",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/241061",
+    "department": "CSE"
+  },
+  {
+    "name": "Ms.Y.Supriya Reddy",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech",
+    "research_interest": "Network security, Machine Learning",
+    "google_scholar": "https://scholar.google.com/citations?hl=en&user=vozgHWMAAAAJ",
+    "apaar_id": "670368214622",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/241090",
+    "department": "CSE"
+  },
+  {
+    "name": "Ms.D.Sowmya",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech",
+    "research_interest": "Machine Learning",
+    "google_scholar": "https://scholar.google.com/citations?hl=en&user=yca9M7MAAAAJ",
+    "apaar_id": "425789700254",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/241141",
+    "department": "CSE"
+  },
+  {
+    "name": "Mrs.C.Ratna Prabha",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech",
+    "research_interest": "Machine Learning",
+    "google_scholar": "https://scholar.google.com/citations?user=eCWfn20AAAAJ&hl=en",
+    "apaar_id": "657786434551",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/241397",
+    "department": "CSE"
+  },
+  {
+    "name": "Smt.B.Gayathri",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech",
+    "research_interest": "Artificial Intelligence",
+    "google_scholar": "",
+    "apaar_id": "847372829576",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/587632",
+    "department": "CSE"
+  },
+  {
+    "name": "Smt.D.L.N.Prasunna",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech,(Ph.D)",
+    "research_interest": "Artificial Intelligence and Machine Learning",
+    "google_scholar": "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=jAgUbV4AAAAJ",
+    "apaar_id": "867643312439",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/587760",
+    "department": "CSE"
+  },
+  {
+    "name": "Smt.B.Swathi",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech,(Ph.D)",
+    "research_interest": "Artificial Intelligence",
+    "google_scholar": "https://scholar.google.com/citations?user=zM6fpwUAAAAJ&hl=en",
+    "apaar_id": "496447563769",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/587555",
+    "department": "CSE"
+  },
+  {
+    "name": "Smt.K.Gayathri",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech",
+    "research_interest": "Computer Networks",
+    "google_scholar": "https://scholar.google.com/citations?view_op=list_works&hl=en&user=ucgpuHkAAAAJ",
+    "apaar_id": "229692610337",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/587778",
+    "department": "CSE"
+  },
+  {
+    "name": "Sri.R.Sandeep Kumar",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech",
+    "research_interest": "Data Analytics, Recommender Systems, Social Network Analysis",
+    "google_scholar": "https://scholar.google.com/citations?hl=en&user=0Om-4_cAAAAJ",
+    "apaar_id": "398328022845",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/513374",
+    "department": "CSE"
+  },
+  {
+    "name": "Smt.K.Sirisha",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech",
+    "research_interest": "Artificial Intelligence",
+    "google_scholar": "https://scholar.google.co.in/citations?hl=en&user=vIdxK28AAAAJ",
+    "apaar_id": "471894053381",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/587584",
+    "department": "CSE"
+  },
+  {
+    "name": "Sri.M.Anand",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech",
+    "research_interest": "Artificial Intelligence",
+    "google_scholar": "",
+    "apaar_id": "771180561915",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/588766",
+    "department": "CSE"
+  },
+  {
+    "name": "Ms.M.Dhana Lakshmi",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech",
+    "research_interest": "Artificial Intelligence",
+    "google_scholar": "https://scholar.google.com/citations?user=3xuh0z8AAAAJ&hl=en",
+    "apaar_id": "364849445872",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/587569",
+    "department": "CSE"
+  },
+  {
+    "name": "Sri.V.Mallesi",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech,(Ph.D)",
+    "research_interest": "Artificial Intelligence & Machine Learning",
+    "google_scholar": "",
+    "apaar_id": "889484916965",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/588647",
+    "department": "CSE"
+  },
+  {
+    "name": "Sri.Y.Mahanandi",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech,(Ph.D)",
+    "research_interest": "Computer Networks",
+    "google_scholar": "",
+    "apaar_id": "892052153650",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/292683",
+    "department": "CSE"
+  },
+  {
+    "name": "Sri.C.V.Chakradhar",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech,(Ph.D)",
+    "research_interest": "AI",
+    "google_scholar": "https://scholar.google.ca/citations?user=DWB-EiUAAAAJ&hl=en",
+    "apaar_id": "127353146546",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/587815",
+    "department": "CSE"
+  },
+  {
+    "name": "Khadija Jabeen",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech",
+    "research_interest": "Artificial Intelligence, NLP, Machine Learning",
+    "google_scholar": "",
+    "apaar_id": "320835360063",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/587703",
+    "department": "CSE"
+  },
+  {
+    "name": "Sri.Vinay Kumar Matam",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech,(Ph.D)",
+    "research_interest": "Artificial Intelligence, Deep Learning",
+    "google_scholar": "https://scholar.google.com/citations?user-As9DfjwAAAAJ&hl-en",
+    "apaar_id": "",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/403839",
+    "department": "CSE"
+  },
+  {
+    "name": "Smt.M.Haritha",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech,(Ph.D)",
+    "research_interest": "Machine Learning",
+    "google_scholar": "",
+    "apaar_id": "",
+    "vidwan_profile": "",
+    "department": "CSE"
+  },
+  {
+    "name": "Sri.B.Mohan Krishna",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech",
+    "research_interest": "Artificial Intelligence, Deep Learning",
+    "google_scholar": "",
+    "apaar_id": "",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/591106",
+    "department": "CSE"
+  },
+  {
+    "name": "MOOTHI-LAKSHMI-PRASANNA",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech,(Ph.D)",
+    "research_interest": "Machine Learning, Big Data, Software Engineering",
+    "google_scholar": "https://scholar.google.com/citations?user=R-GJIMUAAAAJ&hl=en&authuser=1",
+    "apaar_id": "",
+    "vidwan_profile": "",
+    "department": "CSE"
+  },
+  {
+    "name": "Dr. G. Kishor",
+    "designation": "Professor & HoD",
+    "qualifications": "M.E., Ph.D",
+    "research_interest": "Power Electronics & Industrial Drives",
+    "google_scholar": "https://scholar.google.com/citations?user=ZwgWkVwAAAAJ&hl=en",
+    "apaar_id": "684513114279",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/590273",
+    "department": "EEE"
+  },
+  {
+    "name": "Dr. T. Brahmananda Reddy",
+    "designation": "Professor & Dean Research, Planning & Consultancy",
+    "qualifications": "M.E., Ph.D, MIEEE, MISTE",
+    "research_interest": "Power Electronics & Drives",
+    "google_scholar": "https://scholar.google.com/citations?user=3Ioc4OgAAAAJ&hl=en",
+    "apaar_id": "879122928290",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/368926",
+    "department": "EEE"
+  },
+  {
+    "name": "Dr. Y.V. Siva Reddy",
+    "designation": "Professor & Dean Internships",
+    "qualifications": "M.Tech, Ph.D",
+    "research_interest": "Power Systems & Electrical Drives",
+    "google_scholar": "https://scholar.google.com/citations?user=XoF0AP4AAAAJ&hl=en",
+    "apaar_id": "271531418662",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/454134",
+    "department": "EEE"
+  },
+  {
+    "name": "Dr. K. Sri Gowri",
+    "designation": "Professor",
+    "qualifications": "M.Tech, Ph.D",
+    "research_interest": "Power Electronic Drives",
+    "google_scholar": "https://scholar.google.com/citations?user=MBYPkdgAAAAJ&hl=en",
+    "apaar_id": "382432967226",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/241297",
+    "department": "EEE"
+  },
+  {
+    "name": "Dr. M. Siva Satyanarayana",
+    "designation": "Associate Professor",
+    "qualifications": "M.Tech., Ph.D",
+    "research_interest": "Electrical Power Systems",
+    "google_scholar": "https://scholar.google.co.in/citations?user=Xyaalk0AAAAJ&hl=en",
+    "apaar_id": "212988734719",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/241122",
+    "department": "EEE"
+  },
+  {
+    "name": "Dr. N. Ravi Shankar Reddy",
+    "designation": "Associate Professor",
+    "qualifications": "M.Tech., Ph.D",
+    "research_interest": "Power Electronics and Drives",
+    "google_scholar": "https://scholar.google.com/citations?user=VS0XwpEAAAAJ&hl=en",
+    "apaar_id": "974981593340",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/241087",
+    "department": "EEE"
+  },
+  {
+    "name": "Dr. V. Anantha Lakshmi",
+    "designation": "Associate Professor",
+    "qualifications": "M.Tech., Ph.D",
+    "research_interest": "Power Electronics and Drives",
+    "google_scholar": "https://scholar.google.com/citations?user=50NBp_oAAAAJ&hl=en",
+    "apaar_id": "792696703589",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/241270",
+    "department": "EEE"
+  },
+  {
+    "name": "Dr. M. Harsha Vardhan Reddy",
+    "designation": "Associate Professor & Associate HoD",
+    "qualifications": "M.Tech., Ph.D",
+    "research_interest": "Power Electronics and Drives",
+    "google_scholar": "https://scholar.google.com/citations?user=f7mTCOgAAAAJ&hl=en",
+    "apaar_id": "769392705531",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/245491",
+    "department": "EEE"
+  },
+  {
+    "name": "Dr. G. Satheesh",
+    "designation": "Associate Professor",
+    "qualifications": "M.Tech., Ph.D",
+    "research_interest": "Power and Industrial Drives",
+    "google_scholar": "https://scholar.google.com/citations?pli=1&authuser=3&user=u_Cesm0AAAAJ",
+    "apaar_id": "838010886748",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/240635",
+    "department": "EEE"
+  },
+  {
+    "name": "Dr. C. Harinatha Reddy",
+    "designation": "Associate Professor",
+    "qualifications": "M.Tech, Ph.D",
+    "research_interest": "Electric Drives",
+    "google_scholar": "https://scholar.google.com/citations?user=eRX1ogcAAAAJ&hl=en&authuser=2",
+    "apaar_id": "238864110353",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/241080",
+    "department": "EEE"
+  },
+  {
+    "name": "Dr. B. Urmila",
+    "designation": "Associate Professor",
+    "qualifications": "M.Tech., Ph.D",
+    "research_interest": "Multi level Inverters and Drives",
+    "google_scholar": "https://scholar.google.co.in/citations?user=zQfUiWYAAAAJ&hl=en",
+    "apaar_id": "797518207551",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/241127",
+    "department": "EEE"
+  },
+  {
+    "name": "Dr. G. Venkata Subba Reddy",
+    "designation": "Associate Professor",
+    "qualifications": "M.Tech., Ph.D",
+    "research_interest": "Power Systems",
+    "google_scholar": "https://scholar.google.com/citations?user=JAH2NeAAAAAJ&hl=en",
+    "apaar_id": "921638008154",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/245516",
+    "department": "EEE"
+  },
+  {
+    "name": "Dr. G. Sreenivasa Reddy",
+    "designation": "Associate Professor",
+    "qualifications": "M.Tech., Ph.D",
+    "research_interest": "Solar PV System",
+    "google_scholar": "https://scholar.google.co.in/citations?user=qng1pmAAAAAJ&hl=en",
+    "apaar_id": "515508213049",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/241027",
+    "department": "EEE"
+  },
+  {
+    "name": "Sri. S. Anil Kumar",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech., (Ph.D)",
+    "research_interest": "Power Systems",
+    "google_scholar": "https://scholar.google.com/citations?user=dbUcQwkAAAAJ&hl=en",
+    "apaar_id": "504236203269",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/241038",
+    "department": "EEE"
+  },
+  {
+    "name": "Sri. B. Amarnath Naidu",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech",
+    "research_interest": "Power Electronics",
+    "google_scholar": "https://scholar.google.co.in/citations?user=yWZzxnEAAAAJ&hl=en",
+    "apaar_id": "969352432574",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/241113",
+    "department": "EEE"
+  },
+  {
+    "name": "Smt. G. Haritha",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech",
+    "research_interest": "Power Electronics",
+    "google_scholar": "https://scholar.google.com/citations?user=_ZL2sVUAAAAJ&hl=en",
+    "apaar_id": "684554212356",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/241031",
+    "department": "EEE"
+  },
+  {
+    "name": "Sri. M. Srinivasa Reddy",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech",
+    "research_interest": "Power Electronics",
+    "google_scholar": "https://scholar.google.com/citations?hl=en&user=qbBpzMsAAAAJ",
+    "apaar_id": "869853048016",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/241092",
+    "department": "EEE"
+  },
+  {
+    "name": "Sri. A. Pradeep Kumar Yadav",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech",
+    "research_interest": "Renewable Energy Sources, Power Electronics & Drives",
+    "google_scholar": "https://scholar.google.com/citations?hl=en&user=YKewfBoAAAAJ",
+    "apaar_id": "663343339437",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/167381",
+    "department": "EEE"
+  },
+  {
+    "name": "Dr. B.V. Arun Kumar",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech., Ph.D",
+    "research_interest": "Power Electronics",
+    "google_scholar": "https://scholar.google.com/citations?hl=en&user=Esf0Xu8AAAAJ",
+    "apaar_id": "355951161010",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/590307",
+    "department": "EEE"
+  },
+  {
+    "name": "Ms. E. Jyothirmai",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech",
+    "research_interest": "Power Systems",
+    "google_scholar": "https://scholar.google.com/citations?hl=en&user=n0mNxZsAAAAJ",
+    "apaar_id": "",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/591120",
+    "department": "EEE"
+  },
+  {
+    "name": "Smt. B. Rajeswari",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech",
+    "research_interest": "Power Systems",
+    "google_scholar": "https://scholar.google.com/citations?hl=en&user=iqFTh0wAAAAJ",
+    "apaar_id": "770750636456",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/588288",
+    "department": "EEE"
+  },
+  {
+    "name": "Sri. K. Harish Reddy",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech",
+    "research_interest": "Power Systems",
+    "google_scholar": "https://scholar.google.com/citations?user=LIEefLQAAAAJ&hl=en",
+    "apaar_id": "237654698302",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/588261",
+    "department": "EEE"
+  },
+  {
+    "name": "Sri. K. Niteesh Kumar",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech",
+    "research_interest": "Control Systems",
+    "google_scholar": "https://scholar.google.com/citations?user=pCFrcA4AAAAJ&hl=en",
+    "apaar_id": "174529398430",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/590307",
+    "department": "EEE"
+  },
+  {
+    "name": "Sri. A. Vijaya Kumar Reddy",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech",
+    "research_interest": "Power Systems",
+    "google_scholar": "https://scholar.google.com/citations?user=ZZO8rMsAAAAJ&hl=en",
+    "apaar_id": "390326462042",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/590249",
+    "department": "EEE"
+  },
+  {
+    "name": "Sri. K. Jagadeesh",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech, (Ph.D)",
+    "research_interest": "RES & EV",
+    "google_scholar": "https://scholar.google.com/citations?view_op=list_works&hl=en&user=q9tbj5cAAAAJ",
+    "apaar_id": "415330892148",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/543657",
+    "department": "EEE"
+  },
+  {
+    "name": "P. Anjaneya Vara Prasad",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech, (Ph.D)",
+    "research_interest": "Multi Level Invertors",
+    "google_scholar": "https://scholar.google.com/citations?user=xoFz1-MAAAAJ&hl=en",
+    "apaar_id": "336741098507",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/588604",
+    "department": "EEE"
+  },
+  {
+    "name": "Sri. D. Vannurappa",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech, (Ph.D)",
+    "research_interest": "Power Systems with Soft Computing Techniques",
+    "google_scholar": "https://scholar.google.com/citations?view_op=list_works&hl=en&user=4rSa6y4AAAAJ",
+    "apaar_id": "362343609563",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/590248",
+    "department": "EEE"
+  },
+  {
+    "name": "Sri. S. Masum Basha",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech, (Ph.D)",
+    "research_interest": "Renewable Energy Sources & Power Electronics",
+    "google_scholar": "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=smasumbasha%40gmail.com&oq",
+    "apaar_id": "118026698345",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/590232",
+    "department": "EEE"
+  },
+  {
+    "name": "Dr. N. Chandra Sukanya",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech, Ph.D",
+    "research_interest": "Wireless Sensor Networks(WSN), UWSN, Acoustic-Reconfigurable Intelligent Surfaces(RIS), Underwater routing, AUV, MAC, IoT",
+    "google_scholar": "https://scholar.google.co.kr/citations?user=8ktCNfYAAAAJ&hl=en",
+    "apaar_id": "141-242-436-600",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/632686",
+    "department": "EEE"
+  },
+  {
+    "name": "Dr. K. Rajesh",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech, Ph.D",
+    "research_interest": "Power Systems",
+    "google_scholar": "https://scholar.google.com/citations?user=bKrGdFYAAAAJ&hl=en",
+    "apaar_id": "104809351676",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/632503",
+    "department": "EEE"
+  },
+  {
+    "name": "Sri. Pavan Pillalamarri",
+    "designation": "Programme Director",
+    "qualifications": "",
+    "research_interest": "",
+    "google_scholar": "",
+    "apaar_id": "",
+    "vidwan_profile": "",
+    "department": "EEE"
+  },
+  {
+    "name": "Dr. B. Prathap Reddy",
+    "designation": "Inspire Faculty, DECE",
+    "qualifications": "",
+    "research_interest": "",
+    "google_scholar": "",
+    "apaar_id": "",
+    "vidwan_profile": "",
+    "department": "EEE"
+  },
+  {
+    "name": "Sri. G.V. Chandra Sekhar",
+    "designation": "GATE Coaching Faculty",
+    "qualifications": "",
+    "research_interest": "",
+    "google_scholar": "",
+    "apaar_id": "",
+    "vidwan_profile": "",
+    "department": "EEE"
+  },
+  {
+    "name": "Sri. R. Venugopal",
+    "designation": "Director",
+    "qualifications": "",
+    "research_interest": "",
+    "google_scholar": "",
+    "apaar_id": "",
+    "vidwan_profile": "",
+    "department": "EEE"
+  },
+  {
+    "name": "Sri. G. Pradeep Kumar",
+    "designation": "Technology Leader",
+    "qualifications": "",
+    "research_interest": "",
+    "google_scholar": "",
+    "apaar_id": "",
+    "vidwan_profile": "",
+    "department": "EEE"
+  },
+  {
+    "name": "Dr. B. Srinivasa Reddy",
+    "designation": "Professor & Principal",
+    "qualifications": "M.E, Ph.D",
+    "research_interest": "Thermal Engineering",
+    "google_scholar": "",
+    "apaar_id": "872081175040",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/",
+    "department": "MEC"
+  },
+  {
+    "name": "Dr. Y. Venkata Mohan Reddy",
+    "designation": "Professor & Dean Administrative Affairs",
+    "qualifications": "M.E, Ph.D",
+    "research_interest": "Vibrations",
+    "google_scholar": "https://scholar.google.com/citations?hl=en&user=OV3a3SQAAAAJ",
+    "apaar_id": "633364608422",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/241669",
+    "department": "MEC"
+  },
+  {
+    "name": "Dr. K. Madhava Reddy",
+    "designation": "Professor & HoD",
+    "qualifications": "M.Tech, Ph.D",
+    "research_interest": "Reliability Design",
+    "google_scholar": "https://scholar.google.com/citations?hl=en&user=_pKGof4AAAAJ",
+    "apaar_id": "943453701132",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/590980",
+    "department": "MEC"
+  },
+  {
+    "name": "Dr. V. Satish Kumar",
+    "designation": "Professor & Dean Academics",
+    "qualifications": "M.E, Ph.D",
+    "research_interest": "Industrial Engineering",
+    "google_scholar": "https://scholar.google.com/citations?user=29vZRDwAAAAJ&hl=en",
+    "apaar_id": "817252909398",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/590969",
+    "department": "MEC"
+  },
+  {
+    "name": "Dr. B. Veera Bhadra Reddy",
+    "designation": "Professor & Dean Placements & Corporate Relations",
+    "qualifications": "M.Tech., Ph.D",
+    "research_interest": "IC Engines",
+    "google_scholar": "https://scholar.google.com/citations?user=hD0cwQoAAAAJ&hl=en",
+    "apaar_id": "620593620532",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/590969",
+    "department": "MEC"
+  },
+  {
+    "name": "Dr. G. Sankaraiah",
+    "designation": "Professor",
+    "qualifications": "M.Tech., Ph.D",
+    "research_interest": "Industrial Engineering",
+    "google_scholar": "https://scholar.google.com/citations?user=spZAu6MAAAAJ&hl=en",
+    "apaar_id": "827266439544",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/241589",
+    "department": "MEC"
+  },
+  {
+    "name": "Dr. E. Venugopal Goud",
+    "designation": "Professor & Associate HoD",
+    "qualifications": "M.Tech., Ph.D",
+    "research_interest": "Production Engineering",
+    "google_scholar": "https://scholar.google.co.in/citations?user=9QuXd_cAAAAJ&hl=en",
+    "apaar_id": "928905667167",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/241222",
+    "department": "MEC"
+  },
+  {
+    "name": "Dr. P. Harisankar",
+    "designation": "Associate Professor",
+    "qualifications": "M.Tech., Ph.D",
+    "research_interest": "Machine Design",
+    "google_scholar": "https://scholar.google.com/citations?hl=en&authuser=1&user=6fpWNGIAAAAJ",
+    "apaar_id": "429912363326",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/590990",
+    "department": "MEC"
+  },
+  {
+    "name": "Dr. G. Suresh Kumar",
+    "designation": "Associate Professor",
+    "qualifications": "M.Tech., Ph.D",
+    "research_interest": "Industrial Engineering",
+    "google_scholar": "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=OcqTe1AAAAAJ",
+    "apaar_id": "640119809177",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/241434",
+    "department": "MEC"
+  },
+  {
+    "name": "Dr. H. Raghavendra Rao",
+    "designation": "Associate Professor",
+    "qualifications": "M.Tech., Ph.D",
+    "research_interest": "Production Engineering",
+    "google_scholar": "https://scholar.google.com/citations?user=gq99oFcAAAAJ&hl=en",
+    "apaar_id": "123258950792",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/241051",
+    "department": "MEC"
+  },
+  {
+    "name": "Dr. M. Nagapani Sastry",
+    "designation": "Associate Professor",
+    "qualifications": "M.Tech., Ph.D",
+    "research_interest": "Design Optimization",
+    "google_scholar": "https://scholar.google.co.in/citations?user=cbn-WLMAAAAJ&hl=en",
+    "apaar_id": "262451032127",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/241209",
+    "department": "MEC"
+  },
+  {
+    "name": "Dr. R. Meenakshi Reddy",
+    "designation": "Associate Professor",
+    "qualifications": "M.Tech., Ph.D",
+    "research_interest": "Thermal Engineering, Composite Materials",
+    "google_scholar": "https://scholar.google.com/citations?user=GVCl4YwAAAAJ&hl=en",
+    "apaar_id": "668026064994",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/180855",
+    "department": "MEC"
+  },
+  {
+    "name": "Dr. K. Devaki Devi",
+    "designation": "Associate Professor & Dean Student Affairs",
+    "qualifications": "M.Tech., Ph.D",
+    "research_interest": "Production Engineering",
+    "google_scholar": "https://scholar.google.co.in/citations?user=cbn-WLMAAAAJ&hl=en",
+    "apaar_id": "544271376685",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/241079",
+    "department": "MEC"
+  },
+  {
+    "name": "Dr. B. MadhuSudhan Reddy",
+    "designation": "Associate Professor",
+    "qualifications": "M.Tech., Ph.D",
+    "research_interest": "Machine Design",
+    "google_scholar": "https://scholar.google.com/citations?user=U69xBbQAAAAJ&hl=en",
+    "apaar_id": "787808553260",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/241191",
+    "department": "MEC"
+  },
+  {
+    "name": "Dr. K. Poli Reddy",
+    "designation": "Associate Professor",
+    "qualifications": "M.Tech., Ph.D",
+    "research_interest": "Gas Turbine Blade Cooling, Heat Exchangers, Flow Network Modelling and Optimization of Thermal Systems",
+    "google_scholar": "https://scholar.google.com.sg/citations?user=ceJmRkMAAAAJ&hl=en",
+    "apaar_id": "988408897745",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/536779",
+    "department": "MEC"
+  },
+  {
+    "name": "Sri V. Mahanandi Reddy",
+    "designation": "Sr. Assistant Professor",
+    "qualifications": "M.Tech., (Ph.D)",
+    "research_interest": "Thermal Engineering",
+    "google_scholar": "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=vcENz9cAAAAJ",
+    "apaar_id": "114116885216",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/591366",
+    "department": "MEC"
+  },
+  {
+    "name": "Sri. M. Lavakumar",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech., (Ph.D)",
+    "research_interest": "Thermal Engineering",
+    "google_scholar": "https://scholar.google.com/citations?hl=en&user=a86tmKsAAAAJ",
+    "apaar_id": "635298631535",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/241350",
+    "department": "MEC"
+  },
+  {
+    "name": "Sri. P. Lakshmi Reddy",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech",
+    "research_interest": "Thermal Engineering",
+    "google_scholar": "https://scholar.google.com/citations?hl=en&user=rw7s5vEAAAAJ",
+    "apaar_id": "382552274346",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/591015",
+    "department": "MEC"
+  },
+  {
+    "name": "Sri. E. Siva Reddy",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech., (Ph.D)",
+    "research_interest": "Renewable Energy",
+    "google_scholar": "https://scholar.google.com/citations?user=GATZeFsAAAAJ&hl=en",
+    "apaar_id": "412957095046",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/246633",
+    "department": "MEC"
+  },
+  {
+    "name": "Sri. M. Murali Mohan",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech., (Ph.D)",
+    "research_interest": "Manufacturing",
+    "google_scholar": "https://scholar.google.com/citations?hl=en&authuser=1&user=NWnqM3AAAAAJ",
+    "apaar_id": "614734859318",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/241071",
+    "department": "MEC"
+  },
+  {
+    "name": "Sri. Shaik Shavali",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech",
+    "research_interest": "Material Science",
+    "google_scholar": "https://scholar.google.com/citations?user=cDnnzDEAAAAJ&hl=en&authuser=1",
+    "apaar_id": "413857250823",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/241021",
+    "department": "MEC"
+  },
+  {
+    "name": "Sri. G. Praveen Kumar Yadav",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech",
+    "research_interest": "Refrigeration and airconditioning",
+    "google_scholar": "https://scholar.google.com/citations?user=2odFa5MAAAAJ&hl=en&authuser=2",
+    "apaar_id": "702023348067",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/241130",
+    "department": "MEC"
+  },
+  {
+    "name": "Sri. K. Jayasimha Reddy",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech",
+    "research_interest": "Thermal energy storage",
+    "google_scholar": "https://scholar.google.com/citations?user=DFGESRcAAAAJ&hl=en",
+    "apaar_id": "188084861817",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/589909",
+    "department": "MEC"
+  },
+  {
+    "name": "Sri. G. S. Guru Dattatreya",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech",
+    "research_interest": "Thermal/IC Engines",
+    "google_scholar": "https://scholar.google.com/citations?user=N_u9MIEAAAAJ&hl=en",
+    "apaar_id": "516629368429",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/241566",
+    "department": "MEC"
+  },
+  {
+    "name": "Sri. G. Venkatesh",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech",
+    "research_interest": "Thermal",
+    "google_scholar": "https://scholar.google.co.in/citations?user=cbn-WLMAAAAJ&hl=en",
+    "apaar_id": "231167124471",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/241023",
+    "department": "MEC"
+  },
+  {
+    "name": "Dr. Doni Mohana Krishnudu",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech",
+    "research_interest": "Composites",
+    "google_scholar": "https://scholar.google.com/citations?user=Pt_YI9UAAAAJ&hl=en",
+    "apaar_id": "432354235218",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/241338",
+    "department": "MEC"
+  },
+  {
+    "name": "Dr. V. Saikumar Reddy R",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech., Ph.D",
+    "research_interest": "Polymer Composites, Waste Water Treatment, CFD, Bio Fuels",
+    "google_scholar": "https://scholar.google.com/citations?user=7t3NafAAAAAJ&hl=en",
+    "apaar_id": "540528563181",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/503364",
+    "department": "MEC"
+  },
+  {
+    "name": "Dr. K. Krishna Reddy",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech., Ph.D",
+    "research_interest": "Thermal Engineering",
+    "google_scholar": "https://scholar.google.com/citations?user=vHtLWZ8AAAAJ&hl=en",
+    "apaar_id": "236732431193",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/591019",
+    "department": "MEC"
+  },
+  {
+    "name": "Dr. C. Ravikanth Reddy",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech., Ph.D",
+    "research_interest": "Alloy Development, Light alloys, structure-property correlation, Materials Characterization, Powder Metallurgy.",
+    "google_scholar": "https://scholar.google.com/citations?user=9uHBoUAAAAAJ&hl=en&oi=ao",
+    "apaar_id": "652863604889",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/590991",
+    "department": "MEC"
+  },
+  {
+    "name": "Dr. G. Venkatesh",
+    "designation": "Assistant Professor",
+    "qualifications": "M.Tech., Ph.D",
+    "research_interest": "Machining of Difficult to cut materials, Micro Machining, Conventional and Nonconventional Machining, Composite Materials, Additive Manufacturing.",
+    "google_scholar": "",
+    "apaar_id": "786820073204",
+    "vidwan_profile": "https://vidwan.inflibnet.ac.in/profile/591099",
+    "department": "MEC"
+  },
+  {
+    "name": "Dr. R. S. Chalapathi",
+    "designation": "Professor of Practice & Dean–Innovation & Entrepreneurship",
+    "qualifications": "M.Tech., Ph.D",
+    "research_interest": "",
+    "google_scholar": "",
+    "apaar_id": "",
+    "vidwan_profile": "",
+    "department": "MEC"
+  },
+  {
+    "department": "ECE",
+    "Name of the faculty": "Dr .K. Suresh Reddy",
+    "Designation": "Professor & HOD",
+    "Qualifications": "Ph.D",
+    "Research Interest": "Digital signal processing",
+    "Google Scholar": "https://scholar.google.com/citations?hl=en&user=1S4WMokAAAAJ",
+    "APAAR ID": "219174021753",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/241420"
+  },
+  {
+    "department": "ECE",
+    "Name of the faculty": "Dr. S.Nagaraja Rao",
+    "Designation": "Professor & Associate HoD",
+    "Qualifications": "M.Tech, Ph.D",
+    "Research Interest": "Image Processing",
+    "Google Scholar": "https://scholar.google.com/citations?user=VwItAp4AAAAJ&hl=en&oi=ao",
+    "APAAR ID": "956233747766",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/241418"
+  },
+  {
+    "department": "ECE",
+    "Name of the faculty": "Dr. P. Abdul Khayum",
+    "Designation": "Professor",
+    "Qualifications": "M.Tech, Ph.D",
+    "Research Interest": "Image Processing",
+    "Google Scholar": "https://scholar.google.com/citations?user=8ooXk2YAAAAJ&hl=en&oi=ao",
+    "APAAR ID": "149384553011",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/241070"
+  },
+  {
+    "department": "ECE",
+    "Name of the faculty": "Dr.Shaik Saheb Basha",
+    "Designation": "Professor",
+    "Qualifications": "M.Tech, Ph.D",
+    "Research Interest": "Image Processing",
+    "Google Scholar": "https://scholar.google.com/citations?hl=en&user=6myC5JcAAAAJ",
+    "APAAR ID": "803052190957",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/241313"
+  },
+  {
+    "department": "ECE",
+    "Name of the faculty": "Sri M.Devendra",
+    "Designation": "Associate Professor",
+    "Qualifications": "M.S, (Ph.D)",
+    "Research Interest": "Embedded Systems",
+    "Google Scholar": "https://scholar.google.com/citations?user=FJWjg3QAAAAJ&hl=en&oi=sra",
+    "APAAR ID": "203136804766",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/245713"
+  },
+  {
+    "department": "ECE",
+    "Name of the faculty": "Dr. D.R.Srinivas",
+    "Designation": "Associate Professor",
+    "Qualifications": "M.S,Ph.D",
+    "Research Interest": "Wireless Communications",
+    "Google Scholar": "https://scholar.google.com/citations?hl=en&user=4qav5PIAAAAJ",
+    "APAAR ID": "941373697796",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/245900"
+  },
+  {
+    "department": "ECE",
+    "Name of the faculty": "Dr. S.M.Shamsheer Daula",
+    "Designation": "Associate Professor",
+    "Qualifications": "M.Tech,Ph.D",
+    "Research Interest": "Embedded Systems",
+    "Google Scholar": "https://scholar.google.com/citations?user=cuSQrwQAAAAJ&hl=en",
+    "APAAR ID": "656559734818",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/241093"
+  },
+  {
+    "department": "ECE",
+    "Name of the faculty": "Dr.G Venkata Ramana Sagar",
+    "Designation": "Associate Professor",
+    "Qualifications": "M.Tech,Ph.D",
+    "Research Interest": "Artificial Neural Networks Design",
+    "Google Scholar": "https://scholar.google.com/citations?hl=en&user=Z5h9EyMAAAAJ",
+    "APAAR ID": "388511714372",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/241183"
+  },
+  {
+    "department": "ECE",
+    "Name of the faculty": "Dr. D. Rajasekhar",
+    "Designation": "Associate Professor",
+    "Qualifications": "M.Tech,Ph.D",
+    "Research Interest": "Digital Image Processing",
+    "Google Scholar": "https://scholar.google.com/citations?hl=en&user=DTG2-ZMAAAAJ",
+    "APAAR ID": "513543028339",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/241224"
+  },
+  {
+    "department": "ECE",
+    "Name of the faculty": "Dr. G.Amjad Khan",
+    "Designation": "Associate Professor",
+    "Qualifications": "M.Tech,Ph.D",
+    "Research Interest": "Adaptive Signal Processing",
+    "Google Scholar": "https://scholar.google.com/citations?user=JCngek4AAAAJ&hl=en&oi=ao",
+    "APAAR ID": "277308642347",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/241205"
+  },
+  {
+    "department": "ECE",
+    "Name of the faculty": "Dr.D. Lakshmi chaitanya",
+    "Designation": "Associate Professor",
+    "Qualifications": "M.Tech,Ph.D",
+    "Research Interest": "VLSI, Wireless Communications",
+    "Google Scholar": "https://scholar.google.com/citations?hl=en&user=bWqDC5UAAAAJ",
+    "APAAR ID": "",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/"
+  },
+  {
+    "department": "ECE",
+    "Name of the faculty": "Dr. Salai Thillai Thilagam",
+    "Designation": "Associate Professor",
+    "Qualifications": "M.Tech,Ph.D",
+    "Research Interest": "Wireless Communications",
+    "Google Scholar": "https://scholar.google.co.in/citations?user=dyGQ0TIAAAAJ&hl=en",
+    "APAAR ID": "940967903590",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/241294"
+  },
+  {
+    "department": "ECE",
+    "Name of the faculty": "Dr. M.V.R.Vittal",
+    "Designation": "Associate Professor",
+    "Qualifications": "M.Tech,Ph.D",
+    "Research Interest": "Wireless Communications",
+    "Google Scholar": "https://scholar.google.com/citations?hl=en&user=_ttCXh0AAAAJ",
+    "APAAR ID": "454517980033",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/241238"
+  },
+  {
+    "department": "ECE",
+    "Name of the faculty": "Dr. S.Vyshali",
+    "Designation": "Associate Professor",
+    "Qualifications": "M.Tech, Ph.D",
+    "Research Interest": "Digital Image Processing",
+    "Google Scholar": "https://scholar.google.com/citations?hl=en&user=xyDbx5gAAAAJ",
+    "APAAR ID": "254526947525",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/241240"
+  },
+  {
+    "department": "ECE",
+    "Name of the faculty": "Dr. R.SudheerBabu",
+    "Designation": "Associate Professor",
+    "Qualifications": "M.Tech,Ph.D",
+    "Research Interest": "Digital Image Processing",
+    "Google Scholar": "https://scholar.google.com/citations?user=fPN8ifEAAAAJ&hl=en&oi=ao",
+    "APAAR ID": "471833866035",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/241065"
+  },
+  {
+    "department": "ECE",
+    "Name of the faculty": "Dr. G.Ramesh",
+    "Designation": "Associate Professor",
+    "Qualifications": "M.Tec.,Ph.D",
+    "Research Interest": "Embedded Systems,Wireless Communications",
+    "Google Scholar": "https://scholar.google.com/citations?user=RXh4EbwAAAAJ&hl=en",
+    "APAAR ID": "318781602129",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/241208"
+  },
+  {
+    "department": "ECE",
+    "Name of the faculty": "Dr. D V SRIHARI BABU",
+    "Designation": "Associate Professor",
+    "Qualifications": "M.Tech., Ph.D",
+    "Research Interest": "Wireless Communications",
+    "Google Scholar": "https://scholar.google.com/citations?hl=en&user=wGTTyCQAAAAJ",
+    "APAAR ID": "557488659812",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/245914"
+  },
+  {
+    "department": "ECE",
+    "Name of the faculty": "Smt. K.UdayaKiran",
+    "Designation": "Asst.Professor",
+    "Qualifications": "M.Tech.,(Ph.D)",
+    "Research Interest": "Image Processing",
+    "Google Scholar": "https://scholar.google.com/citations?hl=en&user=HbtJwfwAAAAJ",
+    "APAAR ID": "520639880508",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/241119"
+  },
+  {
+    "department": "ECE",
+    "Name of the faculty": "Sri B.Siva Reddy",
+    "Designation": "Asst.Professor",
+    "Qualifications": "M.Tech",
+    "Research Interest": "Wireless Communication",
+    "Google Scholar": "https://scholar.google.com/citations?hl=en&user=dfBbU8MAAAAJ",
+    "APAAR ID": "738409975773",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/247670"
+  },
+  {
+    "department": "ECE",
+    "Name of the faculty": "Dr.T.Sarath Babu",
+    "Designation": "Asst.Professor",
+    "Qualifications": "M.Tech.Ph.D",
+    "Research Interest": "Wireless Communication",
+    "Google Scholar": "https://scholar.google.com/citations?hl=en&user=NUCk42wAAAAJ",
+    "APAAR ID": "295528281614",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/241215"
+  },
+  {
+    "department": "ECE",
+    "Name of the faculty": "Dr. M.Madhusudan Reddy",
+    "Designation": "Assistant Professor",
+    "Qualifications": "M.Tech., Ph.D",
+    "Research Interest": "VLSI Signal Processing, Low power VLSI, SoC",
+    "Google Scholar": "https://scholar.google.com/citations?hl=en&user=XdsCR_cAAAAJ",
+    "APAAR ID": "849459382421",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/241925"
+  },
+  {
+    "department": "ECE",
+    "Name of the faculty": "Smt C.Rajeswari",
+    "Designation": "Assistant Professor",
+    "Qualifications": "M.Tech,(Ph.D).",
+    "Research Interest": "Adaptive signal Processing, Wireless Communications",
+    "Google Scholar": "https://scholar.google.com/citations?hl=en&user=wT4ICsQAAAAJ",
+    "APAAR ID": "730447058474",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/247351"
+  },
+  {
+    "department": "ECE",
+    "Name of the faculty": "Dr. L.L.Prasanna Kumar",
+    "Designation": "Assistant Professor",
+    "Qualifications": "M.Tech , Ph.D",
+    "Research Interest": "Wireless Communications",
+    "Google Scholar": "https://scholar.google.com/citations?hl=en&user=6oEMWokAAAAJ",
+    "APAAR ID": "655134758953",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/241185"
+  },
+  {
+    "department": "ECE",
+    "Name of the faculty": "Sri K.Raju",
+    "Designation": "Assistant Professor",
+    "Qualifications": "M.Tech.(Ph.D)",
+    "Research Interest": "Digital Image Processing",
+    "Google Scholar": "https://scholar.google.com/citations?hl=en&user=LKNnjScAAAAJ",
+    "APAAR ID": "753234516160",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/245849"
+  },
+  {
+    "department": "ECE",
+    "Name of the faculty": "Dr. T.Swati",
+    "Designation": "Assistant Professor",
+    "Qualifications": "M.Tech,Ph.D",
+    "Research Interest": "Digital Image Processing",
+    "Google Scholar": "https://scholar.google.com/citations?hl=en&user=TYpTTkEAAAAJ",
+    "APAAR ID": "904241455960",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/245860"
+  },
+  {
+    "department": "ECE",
+    "Name of the faculty": "Ms W. Yasmeen",
+    "Designation": "Assistant Professor",
+    "Qualifications": "M.Tech,(Ph.D)",
+    "Research Interest": "VLSI",
+    "Google Scholar": "https://scholar.google.com/citations?hl=en&user=eBWaUsoAAAA",
+    "APAAR ID": "210840937098",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/241475"
+  },
+  {
+    "department": "ECE",
+    "Name of the faculty": "Sri A. Venkata Subba Reddy",
+    "Designation": "Assistant Professor",
+    "Qualifications": "M.Tech.(Ph.D)",
+    "Research Interest": "Image Processing",
+    "Google Scholar": "https://scholar.google.com/citations?user=wDgUaxoAAAAJ",
+    "APAAR ID": "135715421470",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/592011"
+  },
+  {
+    "department": "ECE",
+    "Name of the faculty": "Sri K. Ramakrishna",
+    "Designation": "Assistant Professor",
+    "Qualifications": "M.Tech.(Ph.D)",
+    "Research Interest": "Embedded Systems",
+    "Google Scholar": "https://scholar.google.com/citations?user=Ov3qhb8AAAAJ&hl=en",
+    "APAAR ID": "798468774577",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/245858"
+  },
+  {
+    "department": "ECE",
+    "Name of the faculty": "Smt. D.Rohini",
+    "Designation": "Assistant Professor",
+    "Qualifications": "M.Tech",
+    "Research Interest": "VLSI",
+    "Google Scholar": "",
+    "APAAR ID": "429493125501",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/587788"
+  },
+  {
+    "department": "ECE",
+    "Name of the faculty": "Smt. G. Divya Praneetha",
+    "Designation": "Assistant Professor",
+    "Qualifications": "M.Tech,(Ph.D).",
+    "Research Interest": "VLSI & Embedded Systems",
+    "Google Scholar": "https://scholar.google.com/citations?hl=en&user=wv2l3M4AAAAJ",
+    "APAAR ID": "126224066713",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/592025"
+  },
+  {
+    "department": "ECE",
+    "Name of the faculty": "Smt. A. Parvathi",
+    "Designation": "Assistant Professor",
+    "Qualifications": "M.Tech,(Ph.D)",
+    "Research Interest": "Low Power VLSI",
+    "Google Scholar": "https://scholar.google.com/citations?hl=en&user=EKZuouoAAAAJ",
+    "APAAR ID": "810871987582",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/587538"
+  },
+  {
+    "department": "ECE",
+    "Name of the faculty": "Dr. P.C. Praveen Kumar",
+    "Designation": "Assistant Professor",
+    "Qualifications": "M.Tech., Ph.D",
+    "Research Interest": "Antennas, RF & Microwave communications",
+    "Google Scholar": "",
+    "APAAR ID": "649733403623",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/225694"
+  },
+  {
+    "department": "ECE",
+    "Name of the faculty": "Sri. I.V. Rameswara Reddy",
+    "Designation": "Assistant Professor",
+    "Qualifications": "M.Tech.(Ph.D)",
+    "Research Interest": "VLSI",
+    "Google Scholar": "",
+    "APAAR ID": "278749725784",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/587567"
+  },
+  {
+    "department": "ECE",
+    "Name of the faculty": "Smt. K.Lakshmi Devi",
+    "Designation": "Assistant Professor",
+    "Qualifications": "M.Tech.(Ph.D)",
+    "Research Interest": "VLSI",
+    "Google Scholar": "",
+    "APAAR ID": "300309928234",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/587618"
+  },
+  {
+    "department": "ECE",
+    "Name of the faculty": "Sri. P. Surya-Prakash Reddy",
+    "Designation": "Assistant Professor",
+    "Qualifications": "M.Tech,(Ph.D)",
+    "Research Interest": "VLSI & Embedded Systems",
+    "Google Scholar": "",
+    "APAAR ID": "570963768582",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/587580"
+  },
+  {
+    "department": "ECE",
+    "Name of the faculty": "Sri. S. Ramesh Babu",
+    "Designation": "Assistant Professor",
+    "Qualifications": "M.Tech.,(Ph.D)",
+    "Research Interest": "VLSI signal processing",
+    "Google Scholar": "https://scholar.google.com/citations?user=tUrbIFYAAAAJ&hl=en",
+    "APAAR ID": "797379522328",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/587737"
+  },
+  {
+    "department": "ECE",
+    "Name of the faculty": "Dr. P. Anil Kumar",
+    "Designation": "Assistant Professor",
+    "Qualifications": "M.Tech.,Ph.D",
+    "Research Interest": "DECS",
+    "Google Scholar": "",
+    "APAAR ID": "",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/587677"
+  },
+  {
+    "department": "ECE",
+    "Name of the faculty": "Sri. K. Krishna Kumar",
+    "Designation": "Assistant Professor",
+    "Qualifications": "M.Tech",
+    "Research Interest": "EPS",
+    "Google Scholar": "",
+    "APAAR ID": "",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/587581"
+  },
+  {
+    "department": "ECE",
+    "Name of the faculty": "Sri. Venkatesh Mupparth",
+    "Designation": "Assistant Professor",
+    "Qualifications": "M.Tech",
+    "Research Interest": "VLSI",
+    "Google Scholar": "",
+    "APAAR ID": "",
+    "Vidwan Profile": ""
+  },
+  {
+    "department": "ECE",
+    "Name of the faculty": "Sri. G. Rajesh Krishna",
+    "Designation": "Assistant Professor",
+    "Qualifications": "M.Tech,(Ph.D)",
+    "Research Interest": "DECS",
+    "Google Scholar": "",
+    "APAAR ID": "",
+    "Vidwan Profile": ""
+  },
+  {
+    "department": "Civil",
+    "Name of the faculty": "Dr. K. CHINNAPA REDDY",
+    "Designation": "Professor & HOD",
+    "Qualifications": "M. Tech., Ph.D",
+    "Research Interest": "Soil Synthetics",
+    "Google Scholar": "https://scholar.google.com/citations?hl=en&user=jO4CN-0AAAAJ",
+    "APAAR ID": "140290678318",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/591147"
+  },
+  {
+    "department": "Civil",
+    "Name of the faculty": "Dr. B.J.S Varaprasad",
+    "Designation": "Professor &  Assoc.HOD",
+    "Qualifications": "M. Tech., Ph.D",
+    "Research Interest": "Water Resource Engineering",
+    "Google Scholar": "https://scholar.google.com/citations?hl=en&user=kpCDCrEAAAAJ",
+    "APAAR ID": "612869440738",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/241344"
+  },
+  {
+    "department": "Civil",
+    "Name of the faculty": "Dr. T. Chandra Sekhara Reddy",
+    "Designation": "Professor",
+    "Qualifications": "M. Tech., Ph.D",
+    "Research Interest": "Structural Engineering",
+    "Google Scholar": "https://scholar.google.com/citations?hl=en&user=9Ix9p6QAAAAJ&view_op=list_works&sortby=pubdate",
+    "APAAR ID": "379577410179",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/591133"
+  },
+  {
+    "department": "Civil",
+    "Name of the faculty": "Dr. K.V.S Gopal Krishna Sastry",
+    "Designation": "Professor",
+    "Qualifications": "M. Tech., Ph.D",
+    "Research Interest": "Structural Engineering",
+    "Google Scholar": "https://scholar.google.co.in/citations?user=JwBpaBcAAAAJ&hl=en",
+    "APAAR ID": "396926649800",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/241552"
+  },
+  {
+    "department": "Civil",
+    "Name of the faculty": "Dr. J.V Gurumurthy",
+    "Designation": "Professor",
+    "Qualifications": "M. Tech., Ph.D",
+    "Research Interest": "Geotech Engineering",
+    "Google Scholar": "https://scholar.google.com/citations?view_op=list_works&hl=en&user=iuOGxDgAAAAJ",
+    "APAAR ID": "673742540349",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/513128"
+  },
+  {
+    "department": "Civil",
+    "Name of the faculty": "Dr. E.Sanjeeva Rayudu",
+    "Designation": "Associate Professor",
+    "Qualifications": "M. Tech., Ph.D",
+    "Research Interest": "Environmental Engineering",
+    "Google Scholar": "https://scholar.google.co.in/citations?user=KXJqd0MAAAAJ&hl=en",
+    "APAAR ID": "172370786389",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/512781"
+  },
+  {
+    "department": "Civil",
+    "Name of the faculty": "Dr. M.Deepak",
+    "Designation": "Associate Professor",
+    "Qualifications": "M. Tech., Ph.D",
+    "Research Interest": "STRUCTURAL ENGINEERING",
+    "Google Scholar": "https://scholar.google.com/citations?hl=en&user=NHtmmJgAAAAJ",
+    "APAAR ID": "535057894151",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/591160"
+  },
+  {
+    "department": "Civil",
+    "Name of the faculty": "Dr.Sowjanya",
+    "Designation": "Assistant Professor",
+    "Qualifications": "M. Tech., Ph.D",
+    "Research Interest": "Transportation Engineering",
+    "Google Scholar": "https://scholar.google.com/citations?user=BBZTwqMAAAAJ&hl=en",
+    "APAAR ID": "608838987457",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/242863"
+  },
+  {
+    "department": "Civil",
+    "Name of the faculty": "Sri K.Visweswara Rao",
+    "Designation": "Assistant Professor",
+    "Qualifications": "M. Tech., Ph.D",
+    "Research Interest": "Structural Engineering",
+    "Google Scholar": "https://scholar.google.com/citations?user=5AqkBmIAAAAJ&hl=en",
+    "APAAR ID": "886306205439",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/242439"
+  },
+  {
+    "department": "Civil",
+    "Name of the faculty": "Dr.K.Tharani",
+    "Designation": "Assistant Professor",
+    "Qualifications": "M. Tech., Ph.D",
+    "Research Interest": "RS & GIS",
+    "Google Scholar": "https://scholar.google.com/citations?user=PyR3pZ0AAAAJ&hl=en",
+    "APAAR ID": "372953941197",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/591121"
+  },
+  {
+    "department": "Civil",
+    "Name of the faculty": "Dr. P. Lakshmi Sruthi",
+    "Designation": "Assistant Professor",
+    "Qualifications": "M. Tech., Ph.D",
+    "Research Interest": "Water Resources Engineering",
+    "Google Scholar": "https://scholar.google.com/citations?user=yRju06gAAAAJ&hl=en",
+    "APAAR ID": "431107182876",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/241352"
+  },
+  {
+    "department": "Civil",
+    "Name of the faculty": "Dr. RAMIREDDY SUSHMITHA",
+    "Designation": "Assistant Professor",
+    "Qualifications": "M. Tech., Ph.D",
+    "Research Interest": "Traffic Engineering",
+    "Google Scholar": "https://scholar.google.com/citations?hl=en&user=2mmJjbcAAAAJ",
+    "APAAR ID": "319832492854",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/512238"
+  },
+  {
+    "department": "Civil",
+    "Name of the faculty": "Sri Y.Yaswanth Kumar",
+    "Designation": "Assistant Professor",
+    "Qualifications": "M. Tech.,(Ph.D)",
+    "Research Interest": "Hydraulics and water resources Engineering",
+    "Google Scholar": "https://scholar.google.com/citations?user=Aq5-BbwAAAAJ&hl=en",
+    "APAAR ID": "746806702340",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/104246"
+  },
+  {
+    "department": "Civil",
+    "Name of the faculty": "Sri Pathangi Eswanth",
+    "Designation": "Assistant Professor",
+    "Qualifications": "M. Tech.,(Ph.D)",
+    "Research Interest": "Structural Engineering",
+    "Google Scholar": "https://scholar.google.com/citations?hl=en&user=pv-VE9wAAAAJ",
+    "APAAR ID": "121229998726",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/241535"
+  },
+  {
+    "department": "Civil",
+    "Name of the faculty": "Sri S.V. Garata Reddy",
+    "Designation": "Assistant Professor",
+    "Qualifications": "M. Tech.,(Ph.D)",
+    "Research Interest": "Soil Mechanics & Foundation Engineering",
+    "Google Scholar": "https://scholar.google.com/citations?hl=en&user=dWsJiqQAAAAJ",
+    "APAAR ID": "596917355036",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/591173"
+  },
+  {
+    "department": "Civil",
+    "Name of the faculty": "Sri. M PREETHAM SIDDHARTHA REDDY",
+    "Designation": "Assistant Professor",
+    "Qualifications": "M. Tech., (Ph.D)",
+    "Research Interest": "Construction engineering and management",
+    "Google Scholar": "https://scholar.google.com/citations?user=EFfdK9MAAAAJ&hl=en",
+    "APAAR ID": "429836050409",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/242188"
+  },
+  {
+    "department": "Civil",
+    "Name of the faculty": "Sri PUTTURU MANOJ KUMAR",
+    "Designation": "Assistant Professor",
+    "Qualifications": "M. Tech., (Ph.D)",
+    "Research Interest": "STRUCTURES Engineering",
+    "Google Scholar": "https://scholar.google.com/citations?user=Bw8B9u8AAAAJ&hl=en",
+    "APAAR ID": "673254785153",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/591124"
+  },
+  {
+    "department": "Civil",
+    "Name of the faculty": "Sri. M. Santosh Kumar",
+    "Designation": "Assistant Professor",
+    "Qualifications": "M. Tech.",
+    "Research Interest": "STRUCTURES Engineering",
+    "Google Scholar": "https://scholar.google.com/citations?view_op=new_articles&hl=en&imq=manusani+santosh+kumar#",
+    "APAAR ID": "852605825159",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/242202"
+  },
+  {
+    "department": "Civil",
+    "Name of the faculty": "C BALA SAI",
+    "Designation": "Assistant Professor",
+    "Qualifications": "M. Tech.",
+    "Research Interest": "STRUCTURAL Engineering",
+    "Google Scholar": "https://scholar.google.com/citations?hl=en&user=iuAr4jUAAAAJ",
+    "APAAR ID": "841749968264",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/591114"
+  },
+  {
+    "department": "Civil",
+    "Name of the faculty": "J.SRAVANI",
+    "Designation": "Assistant Professor",
+    "Qualifications": "M. Tech.,(Ph.D)",
+    "Research Interest": "STRUCTURAL Engineering",
+    "Google Scholar": "https://scholar.google.com/citations?hl=en&user=OQhkXgoAAAAJ",
+    "APAAR ID": "999273007527",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/590979"
+  },
+  {
+    "department": "Civil",
+    "Name of the faculty": "Dr  K. Satish Kumar",
+    "Designation": "Assistant Professor",
+    "Qualifications": "M. Tech,Ph.D.",
+    "Research Interest": "Water Resources Engineering",
+    "Google Scholar": "https://scholar.google.com/citations?user=vDn1sfgAAAAJ&hl=en",
+    "APAAR ID": "",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/591158"
+  },
+  {
+    "department": "Civil",
+    "Name of the faculty": "Sri KOTA SUDHAKAR REDDY",
+    "Designation": "Assistant Professor",
+    "Qualifications": "M. Tech.,(Ph.D)",
+    "Research Interest": "INFRASTRUCTURE ENGINEERING",
+    "Google Scholar": "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=Nvu8Z0cAAAAJ",
+    "APAAR ID": "194051259219",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/241633"
+  },
+  {
+    "department": "Civil",
+    "Name of the faculty": "Sri MAHENDRAKAR HEMANTH KUMAR",
+    "Designation": "Assistant Professor",
+    "Qualifications": "M. Tech.",
+    "Research Interest": "COMPUTER AIDED STRUCTURAL ENGINEERING",
+    "Google Scholar": "https://scholar.google.com/citations?user=cYlH-BMAAAAJ&hl=en&authuser=1",
+    "APAAR ID": "423128426220",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/591220"
+  },
+  {
+    "department": "Civil",
+    "Name of the faculty": "Ms. N. G. Kalyani",
+    "Designation": "Assistant Professor",
+    "Qualifications": "M. Tech.",
+    "Research Interest": "Remote sensing",
+    "Google Scholar": "https://scholar.google.com/citations?user=TDyX7JkAAAAJ&hl=en",
+    "APAAR ID": "847837966139",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/312574"
+  },
+  {
+    "department": "Civil",
+    "Name of the faculty": "Dr.ENGAMMAGARI GANESH",
+    "Designation": "Assistant Professor",
+    "Qualifications": "M. Tech.,Ph.D",
+    "Research Interest": "EARTHQUAKE ENGINEERING",
+    "Google Scholar": "https://scholar.google.com/citations?user=pO2-E6YAAAAJ&hl=en&oi=ao/a>",
+    "APAAR ID": "447782815895",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/591115"
+  },
+  {
+    "department": "Civil",
+    "Name of the faculty": "Dr.D. Sreenivasulu",
+    "Designation": "Assistant Professor",
+    "Qualifications": "M. Tech.,Ph.D",
+    "Research Interest": "Water Resources Engineering and Management",
+    "Google Scholar": "",
+    "APAAR ID": "",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/"
+  },
+  {
+    "department": "Civil",
+    "Name of the faculty": "Dr.K.V Siva Krishna Reddy",
+    "Designation": "Assistant Professor",
+    "Qualifications": "M. Tech.,Ph.D",
+    "Research Interest": "Hydraulics & Water Res.Eng.(HWRE)",
+    "Google Scholar": "",
+    "APAAR ID": "",
+    "Vidwan Profile": "https://vidwan.inflibnet.ac.in/profile/"
+  }
+]
