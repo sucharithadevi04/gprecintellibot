@@ -9,8 +9,14 @@ import logging
 logger = logging.getLogger(__name__)
 
 # Configure Gemini
-genai.configure(api_key=settings.GEMINI_API_KEY)
-model = genai.GenerativeModel(settings.GEMINI_MODEL)
+try:
+    logger.info(f"Configuring Gemini with model: {settings.GEMINI_MODEL}")
+    genai.configure(api_key=settings.GEMINI_API_KEY)
+    model = genai.GenerativeModel(settings.GEMINI_MODEL)
+    logger.info("Gemini API configured successfully")
+except Exception as e:
+    logger.error(f"Failed to configure Gemini: {type(e).__name__}: {str(e)}", exc_info=True)
+    raise
 
 SYSTEM_PROMPT = """You are GPREC IntelliBot, an intelligent AI assistant for G. Pulla Reddy Engineering College (GPREC), Kurnool, Andhra Pradesh, India.
 
@@ -80,7 +86,7 @@ Provide a helpful, accurate response about GPREC:"""
         return response.text
 
     except Exception as e:
-        logger.error(f"Gemini API error: {e}")
+        logger.error(f"Gemini API error: {type(e).__name__}: {str(e)}", exc_info=True)
         return "I apologize, I'm having trouble connecting to my AI service right now. Please try again in a moment, or contact the college directly at 08518-220010."
 
 

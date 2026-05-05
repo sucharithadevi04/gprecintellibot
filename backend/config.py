@@ -7,8 +7,8 @@ from pydantic_settings import BaseSettings
 
 class Settings(BaseSettings):
     # Gemini API
-    GEMINI_API_KEY: str = "AIzaSyAqbv4N7IuhVYOQPEAgWi1DWrgC0RLBTg8"
-    GEMINI_MODEL: str = "gemini-1.5-flash"
+    GEMINI_API_KEY: str = "AIzaSyCpFaqRmy0uw_YkAs2lgrJHyczuZUgNKQQ"
+    GEMINI_MODEL: str = "gemini-2.5-flash"
 
     # App Settings
     APP_NAME: str = "GPREC IntelliBot"
